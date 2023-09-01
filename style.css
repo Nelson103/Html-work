@@ -1,0 +1,17 @@
+body {
+    background-color: aqua; 
+}
+
+.logo-text {
+    color: coral;
+    text-align: center;
+    font-size: 35px;
+    line-height: 60px;
+    letter-spacing: 2pc;
+}
+.nav-link {
+    list-style: none;
+    display: inline-block;
+    border: 5px solid black;
+    
+}
